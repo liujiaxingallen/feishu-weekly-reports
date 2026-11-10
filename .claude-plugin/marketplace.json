@@ -3,7 +3,7 @@
   "description": "飞书周报自动化：每周自动汇总群聊、邮件、文档生成十段式周报，推送到飞书，含失败补跑和主动提醒",
   "owner": {
     "name": "浮生",
-    "url": "https://github.com/feishu-weekly-report"
+    "url": "https://github.com/liujiaxingallen"
   },
   "plugins": [
     {
@@ -13,7 +13,7 @@
       "source": "./",
       "author": {
         "name": "浮生",
-        "url": "https://github.com/feishu-weekly-report"
+        "url": "https://github.com/liujiaxingallen"
       }
     }
   ]
