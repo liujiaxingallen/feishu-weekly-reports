@@ -1,0 +1,20 @@
+{
+  "name": "feishu-weekly-report",
+  "description": "飞书周报自动化：每周自动汇总群聊、邮件、文档生成十段式周报，推送到飞书，含失败补跑和主动提醒",
+  "owner": {
+    "name": "浮生",
+    "url": "https://github.com/feishu-weekly-report"
+  },
+  "plugins": [
+    {
+      "name": "feishu-weekly-report",
+      "description": "飞书周报自动生成与定时循环：安装后自动搭好定时任务、项目归纳和自检，之后每周四无人值守出周报",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "浮生",
+        "url": "https://github.com/feishu-weekly-report"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.state
+__pycache__/
+*.pyc
+# 配置文件含个人 openId，不要提交
+lark-weekly-config.json

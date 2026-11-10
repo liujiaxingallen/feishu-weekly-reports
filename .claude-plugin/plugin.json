@@ -1,0 +1,22 @@
+{
+  "name": "feishu-weekly-report",
+  "version": "1.0.0",
+  "description": "飞书周报自动生成与定时循环。安装后自动搭好定时任务、项目归纳和自检；之后每周四无人值守汇总群聊+邮件+文档，生成十段式周报并推送到飞书，失败自动补跑、主动提醒。",
+  "author": {
+    "name": "浮生",
+    "url": "https://github.com/feishu-weekly-report"
+  },
+  "license": "MIT",
+  "keywords": [
+    "飞书",
+    "周报",
+    "feishu",
+    "weekly-report",
+    "automation",
+    "scheduling",
+    "launchd",
+    "crontab",
+    "schtasks",
+    "cross-platform"
+  ]
+}
